@@ -13,6 +13,8 @@ public class string {
 		System.out.println(s1);
 		System.out.println(s1+ " " +s1);
 		System.out.println("s1= " +av);
+		System.out.println(s1+ " " +s1);
+		System.out.println("s1= " +av);
 	
 		
 
